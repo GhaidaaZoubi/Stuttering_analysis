@@ -1,0 +1,108 @@
+﻿File name,Gender,Handedness,Family History,Age at onset,Age at recording,Where recorded,Recording conditions,Content,Word count,Type of therapy,Time between therapy and recording,Hearing problems,Language problems,PHL,SEN,Orthographic,Phonetic,Time aligned,Tape Noise,Env noise,Speaker Quality,Interruptions
+F_0101_14y8m_1,Female,left,no,78,176,UCL,QR,SSI-3 (2),125,Family,52,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+F_0101_14y8m_2,Female,left,no,78,176,UCL,QR,SSI-3 (3),125,Family,52,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+F_0101_15y2m_1,Female,left,no,78,182,UCL,QR,SSI-3 (4),125,Family,58,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,2,1
+F_0101_15y2m_2,Female,left,no,78,182,UCL,QR,SSI-3 (5),128,Family,58,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,2,1
+F_0101_17y2m_1,Female,left,no,78,206,UCL,QR,SSI-3 (3),126,Family,82,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+F_0101_17y3m_1,Female,left,no,78,207,UCL,QR,SSI-3 (4),125,Family,82,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+F_0142_12y4m_1,Female,right,no,36,148,Clinic,QR,OMW,420,Family,13,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,2,1
+F_0818_12y4m_1,Female,right,no,60,148,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+F_0818_14y2m_1,Female,right,no,60,170,UCL,STR,SSI-3 (1),125,Holistic,22,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+F_0818_14y2m_2,Female,right,no,60,170,UCL,STR,SSI-3 (2),125,Holistic,22,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1,1
+F_0818_15y11m_1,Female,right,no,60,191,UCL,QR,SSI-3 (3),126,Holistic,43,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2.5,1
+F_0818_16y1m_1,Female,right,no,60,193,UCL,QR,SSI-3 (3),126,Holistic,45,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,2,1
+F_0818_16y1m_2,Female,right,no,60,193,UCL,QR,SSI-3 (4),125,Holistic,45,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,1.5,1
+F_1201_12y11m_1,Female,right,no,48,155,Clinic,QR,SSI-3 (3),126,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,3,1
+F_1211_11y3m_1,Female,left,no,60,135,Clinic,QR,SSI-3 (1),125,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+M_0014_10y10m_1,Male,right,yes,60,130,Clinic,QR,Other,322,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,1,1
+M_0014_10y10m_2,Male,right,yes,60,130,Clinic,QR,Other,218,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,1,1
+M_0014_11y1m_1,Male,right,yes,60,133,Clinic,QR,Other,300,Family,3,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,1,1
+M_0014_11y7m_1,Male,right,yes,60,139,Clinic,QR,Other,314,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,2,1
+M_0015_10y11m_1,Male,right,not known,96,131,Clinic,QR,Other,288,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_0015_11y0m_1,Male,right,not known,96,132,Clinic,QR,Other,222,Family,1,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,2,1
+M_0015_11y4m_1,Male,right,not known,96,136,Clinic,QR,Other,206,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1.5,1,1
+M_0015_11y8m_1,Male,right,not known,96,140,Clinic,QR,Other,111,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,2,1
+M_0016_7y10m_1,Male,right,no,48,94,Clinic,QR,Other,266,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,3.5,2,1,1
+M_0016_8y1m_1,Male,right,no,48,97,Clinic,QR,Other,115,Family,3,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_0016_8y3m_1,Male,right,no,48,99,Clinic,QR,Other,156,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_0016_8y7m_1,Male,right,no,48,103,Clinic,QR,Other,135,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1.5,2,1
+M_0034_12y6m_1,Male,left,not known,36,150,Clinic,QR,ATR,370,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1,1
+M_0034_12y8m_1,Male,left,not known,36,152,Clinic,QR,ATR,370,Family,2,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2.5,1
+M_0034_12y11m_1,Male,left,not known,36,155,Clinic,QR,ATR,370,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,3,1
+M_0034_13y2m_1,Male,left,not known,36,158,Clinic,QR,ATR,370,Family,8,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,2,1
+M_0034_13y6m_1,Male,left,not known,36,162,Clinic,QR,ATR,370,Family,12,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,2,1,1
+M_0048_11y1m_1,Male,right,not known,96,133,Clinic,QR,ATR,370,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,2,1
+M_0048_11y1m_2,Male,right,not known,96,133,Clinic,QR,ATR,370,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_0048_11y5m_1,Male,right,not known,96,137,Clinic,QR,ATR,370,Family,4,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_0048_11y6m_1,Male,right,not known,96,138,Clinic,QR,ATR,370,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_0053_10y2m_1,Male,right,yes,60,122,Clinic,QR,ATR,370,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0053_10y2m_2,Male,right,yes,60,122,Clinic,QR,ATR,370,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_0053_10y4m_1,Male,right,yes,60,124,Clinic,QR,ATR,370,Family,2,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1,1
+M_0053_10y6m_1,Male,right,yes,60,126,Clinic,QR,ATR,370,Family,4,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0053_10y8m_1,Male,right,yes,60,128,Clinic,QR,ATR,370,Family,6,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0053_11y1m_1,Male,right,yes,60,131,Clinic,QR,ATR,370,Family,11,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0053_11y4m_1,Male,right,yes,60,134,Clinic,QR,ATR,370,Family,14,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_0061_18y5m_1,Male,left,not known,not known,211,UCL,QR,SSI-3 (5),128,Family,53,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,3,1
+M_0061_18y5m_2,Male,left,not known,not known,211,UCL,QR,SSI-3 (6),129,Family,53,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,3,1
+M_0064_11y5m_1,Male,right,no,36,137,Clinic,QR,ATR,370,Family,3,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0064_11y11m_1,Male,right,no,36,143,Clinic,QR,ATR,370,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,1,1
+M_0064_12y2m_1,Male,right,no,36,146,Clinic,QR,ATR,370,Family,12,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_0065_20y1m_1,Male,right,not known,72,241,UCL,QR,SSI-3 (3),126,Family,78,FALSE,FALSE,English,FALSE,TRUE,FALSE,TRUE,2,1,2,1
+M_0065_20y6m_1,Male,right,not known,72,246,UCL,QR,SSI-3 (3),126,Family,83,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1.5,2,2,1
+M_0065_20y7m_1,Male,right,not known,72,247,UCL,QR,SSI-3 (3),126,Family,79,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0065_20y7m_2,Male,right,not known,72,247,UCL,QR,SSI-3 (3),126,Family,79,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,2,1
+M_0077_11y2m_1,Male,right,not known,36,134,Clinic,QR,ATR,370,Holistic,0,TRUE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1,1
+M_0077_13y1m_1,Male,right,not known,36,157,Home,QR,ATR,370,Holistic,23,TRUE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,1.5,1
+M_0078_17y11m_1,Male,right,no,96,215,UCL,QR,SSI-3 (7),124,Holistic,67,TRUE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_0098_8y4m_1,Male,right,not known,not known,100,Home,QR,OMW,420,Holistic,7,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,2,1
+M_0104_15y4m_1,Male,right,no,54,184,UCL,QR,SSI-3 (5),128,Holistic,61,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,2.5,1
+M_0104_15y4m_2,Male,right,no,54,184,UCL,QR,SSI-3 (6),129,Holistic,61,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,3,1
+M_0104_18y1m_1,Male,right,no,54,217,UCL,QR,SSI-3 (7),124,Holistic,94,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,2,2,1
+M_0138_12y2m_1,Male,not known,not known,not known,146,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1.5,1,1
+M_0138_13y3m_1,Male,not known,not known,not known,159,Home,QR,ATR,370,Holistic,13,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+M_0216_11y6m_1,Male,right,not known,48,138,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,2,1
+M_0216_12y1m_1,Male,right,not known,48,145,Clinic,QR,OMW,420,Holistic,7,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,2,1
+M_0253_14y6m_1,Male,left,yes,48,174,Clinic,QR,OMW,420,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_0253_15y3m_1,Male,left,yes,48,183,Clinic,QR,Other,392,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,1,1
+M_0398_12y5m_1,Male,left,yes,60,149,Home,QR,OMW,420,Holistic,7,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,1,1
+M_0541_12y3m_1,Male,left,not known,48,147,Clinic,QR,OMW,420,Family,12,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_0545_15y3m_1,Male,right,yes,36,183,Clinic,QR,OMW,420,Family,12,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,1,1
+M_0760_12y3m_1,Male,not known,no,96,147,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,TRUE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_0760_15y3m_1,Male,not known,no,96,183,UCL,QR,ATR,370,Holistic,36,FALSE,FALSE,English,TRUE,FALSE,FALSE,FALSE,2,1,2,1
+M_0874_13y1m_1,Male,right,yes,42,157,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,FALSE,TRUE,FALSE,TRUE,1,2,1.5,1
+M_0874_15y5m_1,Male,right,yes,42,185,UCL,QR,ATR,370,Holistic,28,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,1.5,1
+M_0876_15y9m_1,Male,right,not known,66,189,Home,QR,SSI-3 (3&4),251,Holistic,35,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1,2,2.5,1
+M_0876_15y9m_2,Male,right,not known,66,189,Home,QR,SSI-3 (3&4),251,Holistic,35,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1.5,1,1.5,1
+M_0876_15y10m_1,Male,right,not known,66,190,UCL,QR,SSI-3 (3&4),251,Holistic,36,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_0880_13y4m_1,Male,left,not known,48,160,Clinic,QR,OMW,420,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+M_0880_14y6m_1,Male,left,not known,48,174,UCL,STR,SSI-3 (1),125,Holistic,14,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+M_0880_14y6m_2,Male,left,not known,48,174,UCL,STR,SSI-3 (2),125,Holistic,14,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_0880_15y2m_1,Male,left,not known,48,182,UCL,QR,ATR,370,Holistic,22,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2.5,1,2,1
+M_0999_14y3m_1,Male,right,not known,96,171,Clinic,QR,Other,132,Family,14,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,1,1
+M_0999_14y8m_1,Male,right,not known,96,176,Clinic,QR,Other,176,Family,19,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,3,1
+M_0999_17y1m_1,Male,right,not known,96,205,Clinic,QR,Other,219,Family,48,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,2,3,1
+M_1011_15y9m_1,Male,right,yes,60,189,UCL,QR,SSI-3 (3&4),251,Holistic,23,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_1011_15y10m_1,Male,right,yes,60,190,UCL,QR,SSI-3 (3&4),251,Holistic,24,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1.5,1
+M_1017_11y8m_1,Male,right,no,36,140,UCL,STR,SSI-3 (1),125,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_1017_11y8m_2,Male,right,no,36,140,UCL,STR,SSI-3 (2),125,Family,5,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_1017_14y2m_1,Male,right,no,36,170,UCL,QR,SSI-3 (7&8),249,Family,35,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_1022_10y9m_1,Male,right,not known,36,129,Clinic,QR,Other,234,Family,0,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1.5,1.5,1,1
+M_1022_10y9m_2,Male,right,not known,36,129,Clinic,QR,Other,220,Family,0,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1,2,1,1
+M_1022_10y10m_2,Male,right,not known,36,130,Clinic,QR,Other,237,Family,1,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1.5,2,1.5,1
+M_1022_11y8m_2,Male,right,not known,36,140,Clinic,QR,Other,290,Family,11,FALSE,TRUE,English,FALSE,FALSE,FALSE,FALSE,1.5,2,2,1
+M_1023_10y9m_1,Male,right,not known,60,129,Clinic,QR,Other,248,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,1,1
+M_1023_10y9m_2,Male,right,not known,60,129,Clinic,QR,Other,253,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1,1
+M_1023_10y10m_2,Male,right,not known,60,130,Clinic,QR,Other,275,Family,1,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1.5,2,1
+M_1023_11y6m_2,Male,right,not known,60,138,Clinic,QR,Other,275,Family,9,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,1.5,1
+M_1040_11y3m_1,Male,right,not known,48,135,Clinic,QR,Other,225,Family,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2.5,1,2,1
+M_1040_11y5m_1,Male,right,not known,48,137,Clinic,QR,Other,199,Family,2,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,2,1
+M_1040_12y6m_1,Male,right,not known,48,150,Clinic,QR,Other,286,Family,15,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,1.5,1
+M_1202_10y7m_1,Male,right,not known,not known,127,Clinic,QR,SSI-3 (1),125,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,1.5,1
+M_1205_13y1m_1,Male,right,not known,36,157,Clinic,QR,SSI-3 (3&4),251,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,2,2.5,1
+M_1206_12y3m_1,Male,right,yes,24,147,Clinic,QR,SSI-3 (7&8),249,Holistic,0,FALSE,FALSE,Tamil,FALSE,FALSE,FALSE,FALSE,1,2,2.5,1
+M_1207_13y5m_1,Male,right,not known,not known,161,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,TRUE,Yoruba,FALSE,FALSE,FALSE,FALSE,1,1.5,2,1
+M_1212_11y3m_1,Male,right,yes,66,135,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,1.5,1
+M_1213_11y3m_1,Male,right,not known,60,135,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,FALSE,Urdu,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_1214_11y8m_1,Male,right,yes,not known,140,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1,2,1
+M_1215_11y0m_1,Male,right,not known,not known,132,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,2,1,2,1
+M_1216_11y1m_1,Male,right,yes,84,133,Clinic,QR,SSI-3 (1&2),250,Holistic,0,FALSE,FALSE,English,FALSE,FALSE,FALSE,FALSE,1,1.5,1,1
