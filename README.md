@@ -8,12 +8,9 @@ This study delves into stuttering behaviors across diverse speech contexts using
 - [Methodology](#methodology)
 - [Results](#results)
 - [Installation and Usage](#installation-and-usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Authors and Acknowledgments](#authors-and-acknowledgments)
-- [Contact Information](#contact-information)
-- [References and Further Reading](#references-and-further-reading)
+
 
 ## Data Description
 The study utilized data from the UCLASS archives, comprising recordings of speakers who stutter across diverse speech situations (reading, conversation, monologue) and conditions (normal speaking, altered listening). These recordings were obtained from controlled laboratory studies, offering background information about speakers and recording conditions for in-depth analysis of stuttering behaviors across contexts.
@@ -56,5 +53,5 @@ This project is licensed under the MIT License
 ## Authors and Acknowledgments
 
 - **Authors**: Ghaida Zoubi & Donia Shebrawi
-- **Course**: Statistical Learning Course, Haifa University- Data science program
-- **Professor**: [Itay Dattner]
+- **Course**: Statistical Learning Course, Haifa University- International Master's Program in statistics
+- **Professor**: Itay Dattner
