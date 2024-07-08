@@ -54,4 +54,4 @@ These findings underscore the nuanced relationship between speech context and st
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors 
-Ghaida Zoubi , Donia Shebrawi
+Ghaida Zoubi &  Donia Shebrawi
