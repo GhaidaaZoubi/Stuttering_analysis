@@ -53,5 +53,8 @@ These findings underscore the nuanced relationship between speech context and st
 ## License
 This project is licensed under the MIT License
 
-## Authors 
-Ghaida Zoubi &  Donia Shebrawi
+## Authors and Acknowledgments
+
+- **Authors**: Ghaida Zoubi & Donia Shebrawi
+- **Course**: Statistical Learning Course, Haifa University- Data science program
+- **Professor**: [Itay Dattner]
