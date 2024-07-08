@@ -51,7 +51,7 @@ These findings underscore the nuanced relationship between speech context and st
 6. Run the code from the beginning in the order of the report.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Authors 
 Ghaida Zoubi &  Donia Shebrawi
